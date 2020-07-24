@@ -1,6 +1,6 @@
 If this assesment were to be a production application,there will 
 be more users so I will create a reliable database to store the data.
-Post calls will write data to the database and Get calls will read data
+POST calls will write data to the database and GET calls will read data
 from the database.
 Also there will be two collections in the database(Users and moods).
 If there are more users there's a high probability in the recurrence 

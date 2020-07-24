@@ -1,0 +1,7 @@
+Flask==1.1.1
+flask-restful==0.3.8
+requests==2.21.0
+oauthlib==3.0.1
+pyOpenSSL==19.0.0
+Flask_Login==0.4.1
+flask.ext.pymongo
